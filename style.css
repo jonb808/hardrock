@@ -1,0 +1,27 @@
+.ui.topmenu.menu{
+  background-color: black;
+  margin: 0px;
+  border-radius: 0px;
+
+}
+a{
+  color: #cccccc;
+  margin-left: 20px;
+}
+
+.largetxt{
+  color: #ccc;
+  font-size: 25px;
+  padding: 25px;
+}
+
+.ui.footer{
+  background-color: #f96d21;
+  text-align: center;
+  color: #ccc;
+}
+
+body{
+  color: #ccc;
+}
+
